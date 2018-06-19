@@ -13,7 +13,7 @@
 
 
 ### PROJECT HIGHLIGHTS
-This was a code along from the Jonas Schmitman Advanced CSS course. I began using SCSS with the first project in the course and moved onto advanced SCSS for this project. One of the best 
+This was a code along from the Jonas Schmitman Advanced CSS course. I began using SCSS with the first project in the course and moved onto advanced SCSS for this project. One of the most useful course sections was where Jonas goes in depth to explain how the browser parses the CSSOM. 
 
 
 ## REFACTOR NOTES
@@ -25,4 +25,4 @@ I would remove redundant visual elements (e.g. breadcrumbs). I'd also like to ta
 ### CSS
 SASS/SCSS are time-savers for pages with loads of styling, but I've come to find that CSS3 standards and browser adoption of those standards have made preprocessors completely unneccessary, aside from maintaining apps built using those libraries.
 
-All of what these preprocessors do can be easily replaced using native CSS Custom Properties. For further info, see: https://developer.mozilla.org/en-US/docs/Web/CSS/--*
+All of what these preprocessors (SASS/SCSS, LESS) do can be easily replaced using native CSS Custom Properties. For further info, see: https://developer.mozilla.org/en-US/docs/Web/CSS/--*
